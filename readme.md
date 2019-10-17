@@ -1,5 +1,5 @@
 # fabriksken
-Discover a historic metal spring factory in 3D. In your Browser
+Discover a historic metal spring factory in your Browser
 
 ## Background
 Project within the 2019 CodingDaVinci cultural hackathon
